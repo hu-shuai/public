@@ -1,0 +1,12 @@
+{
+  "respCode": 0,
+  "respMsg": "sucess",
+  "updateFlag": 0,
+  "newVersionName": "1.0.0",
+  "newVersionCode": 100,
+  "description": "发现新版本，请升级",
+  "appUrl": "",
+  "h5NewVersionCode": 100,
+  "isOpen": true,
+  "isWhole": true
+}
