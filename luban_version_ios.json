@@ -6,7 +6,8 @@
   "newVersionCode": 100,
   "description": "发现新版本，请升级",
   "appUrl": "",
-  "h5NewVersionCode": 100,
+  "h5NewVersionCode": 110,
+  "h5Url": "http://lb-tianyan.oss-cn-zhangjiakou.aliyuncs.com/tianyan1.zip",
   "isOpen": true,
   "isWhole": true
 }
